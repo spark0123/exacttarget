@@ -1,0 +1,24 @@
+{
+    "name": "spark0123/exacttarget",
+    "type": "library",
+    "keywords" : ["exact target", "exacttarget", "email", "api" ],
+    "description": "Component library for ExactTarget API",
+    "license": "MIT",
+    "homepage": "https://github.com/spark0123/exacttarget",
+    "authors": [
+        {
+            "name": "Sue Park",
+            "email": "skpark0123@gmail.com"
+        }
+    ],
+    "require": {
+        "php"         : ">=5.3.3"
+    },
+    "extra": {
+    },
+    "autoload": {
+        "psr-0": { 
+            "spark0123\\exactTarget": "src/" 
+        }
+    }
+}
