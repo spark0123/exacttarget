@@ -17,8 +17,6 @@
     "extra": {
     },
     "autoload": {
-        "psr-0": { 
-            "spark0123\\exactTarget": "src/" 
-        }
+        "classmap": ["src/"]
     }
 }
